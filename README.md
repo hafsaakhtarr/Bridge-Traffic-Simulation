@@ -128,10 +128,10 @@ CROSSING State:
 
 ```
 HAkhtar/
-├── BridgeSegment.java      # Atomic model for bridge
-└── BridgeSystem.java       # Coupled model connecting components
+├── BridgeSegment.java    
+└── BridgeSystem.java       
 
-BridgeSegment/              # Provided by instructor
+BridgeSegment/              
 ├── AbstractBridgeSystem.java
 ├── CarGenerator.java
 ├── Transducer.java
